@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppearanceManager.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="50" Column="64" />
+      <File FileName="BaseDialogViewController.cs" Line="38" Column="94" />
+      <File FileName="Resources.cs" Line="22" Column="6" />
+      <File FileName="Util.cs" Line="22" Column="39" />
+      <File FileName="AppearanceManager.cs" Line="9" Column="10" />
+      <File FileName="LoginDialogViewController.cs" Line="30" Column="79" />
+      <File FileName="ExpenseModel.cs" Line="25" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Xaminar" expanded="True">
+            <Node name="images">
+              <Option id="ShowVersionControlOverlays" value="True" />
+              <Option id="ShowAllFiles" value="True" />
+            </Node>
+            <Node name="AppearanceManager.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>data</Value>
+        </State>
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
