@@ -35,9 +35,9 @@ namespace Xaminar
             window = new UIWindow(UIScreen.MainScreen.Bounds);
 
 
-            //Util.VisualMode = VisualMode.None;
+            Util.VisualMode = VisualMode.None;
             //Util.VisualMode = VisualMode.TintColor;
-            Util.VisualMode = VisualMode.UIAppearance;
+            //Util.VisualMode = VisualMode.UIAppearance;
             AppearanceManager.SetAppearance();
 
             UIApplication.SharedApplication.StatusBarStyle = UIStatusBarStyle.BlackOpaque;
