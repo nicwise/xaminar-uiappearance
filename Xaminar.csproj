@@ -99,23 +99,14 @@
     <Folder Include="images\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\navbar-logo%402x.png" />
     <Content Include="images\background.png" />
-    <Content Include="images\background%402x.png" />
     <Content Include="images\navbar-logo.png" />
     <Content Include="images\navbar.png" />
-    <Content Include="images\navbar%402x.png" />
     <Content Include="images\navbar-icon.png" />
-    <Content Include="images\navbar-icon%402x.png" />
     <Content Include="images\back-button.png" />
-    <Content Include="images\back-button%402x.png" />
     <Content Include="images\tabbar.png" />
-    <Content Include="images\tabbar%402x.png" />
     <Content Include="images\tabbar-item.png" />
-    <Content Include="images\tabbar-item%402x.png" />
     <Content Include="images\padlock-icon.png" />
-    <Content Include="images\padlock-icon%402x.png" />
     <Content Include="images\expense-icon.png" />
-    <Content Include="images\expense-icon%402x.png" />
   </ItemGroup>
 </Project>
